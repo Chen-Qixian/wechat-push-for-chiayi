@@ -1,12 +1,13 @@
 {
     "app_id": "wx37b3d816acd27de6", 
     "app_secret": "2f7fc7ee7116a7d81563930d28f0fc64", 
-    "template_id": "I886DHIiTzLj0Ubqlw9rGn4ME8OKdQxa4hemMzMEi6k", 
+    "template_id": "bzSFYJ3djgUgm0djFImHopcbx8phvj4XTIPw5oszBgc", 
     "user": ["o4_SZ6N3flkJvPvPk-GfXyYkskjc", "o4_SZ6EIrJ-mhHtRANtUm4ghZRHY"], 
     "province": "台湾", 
     "city": "台北", 
     "birthday1": "1999-05-20",
-    "birthday2": "2023-07-01", 
+    "birthday2": "2023-07-01",
+    "birthday3": "2023-06-17“
     "love_date": "2022-01-21", 
     "Whether_Eng": "", 
     "Whether_caihongpi": false, 
